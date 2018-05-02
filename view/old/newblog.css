@@ -1,0 +1,97 @@
+
+.body-background{
+    position: fixed;
+    height: 100%;
+    background-image: url("../images/crystals.jpg");
+    background-size: cover;
+    -webkit-filter: blur(7.5px);
+    filter: blur(7.5px);
+
+}
+
+#image_dropzone{
+    padding: 5%;
+    background: none;
+    color: aliceblue;
+    border: solid aliceblue;
+    border-radius: 15px;
+}
+
+#image-dropzone-background{
+
+
+}
+
+input[type="text"]::placeholder,
+textarea[name="shortVersion"]::placeholder,
+textarea[name="bContent"]::placeholder,
+textarea[name="bContent"],
+select[name="bCategory"],
+.jumbotron,
+form-label{
+  background: none;
+  color: aliceblue;
+}
+
+
+input[type="text"]:focus,
+textarea[name="shortVersion"]:focus,
+textarea[name="bContent"]:focus{
+  background: none;
+  color: aliceblue;
+}
+
+
+.form-background{
+  height: 100%;
+  position: absolute;
+  background: none;
+  color: aliceblue;
+  background-size: cover;
+  border-radius: 25px;
+  border: none;
+    top: 25px;
+}
+
+.form-foreground{
+  position: absolute;
+  background: none;
+  color: aliceblue;
+  background-size: cover;
+  border-radius: 25px;
+  border: none;
+    top: 25px;
+}
+
+.container{
+  height: 100%;
+}
+
+form{
+  padding-left: 20%;
+  padding-right: 2%;
+}
+
+.form-background{
+  height: 100%;
+  width: 100%;
+    background-image: url("../images/Night-Winter.jpg");
+    background-size: cover;
+
+}
+
+.jumbotron{
+  text-align: center;;
+}
+
+.echte-form{
+  position: absolute;
+}
+
+
+textarea[name="shortVersion"],textarea[name="bContent"], select[name="bCategory"], input[type="text"] {
+    border-style: none;
+    background: none;
+    border-bottom: solid aliceblue;
+    border-left: solid aliceblue;
+}

@@ -1,0 +1,47 @@
+body{
+    background-image: url("../images/blurred.jpg");
+    background-size: cover;
+}
+
+.blog-container{
+    background: rgb(0, 0, 0, .5);
+    height: 100%;
+    display: block;
+    padding: 40px;
+}
+
+.blog-content{
+    color: aliceblue;
+}
+
+.blog-menu{
+    
+}
+
+.row_2{
+    height: 100%;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+}
+
+.jumbotron{align-content: 
+    background-image: url("../images/blurred.jpg");
+    background-size: cover;    
+}
+
+@media (min-width: 1200px) {
+  .menu-list-item {
+    height: 15%;
+  }
+}
+
+@media (min-width: 920px) {
+  .menu-list-item {
+    height: 15%;
+  }
+}
+
+
+.row_2, .blog-container{
+    height: 100%;
+}

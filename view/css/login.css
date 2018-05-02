@@ -1,0 +1,268 @@
+
+
+.body-background{
+    position: fixed;
+    height: 100%;
+    background-image: url("../images/Night-Winter.jpg");
+    background-size: cover;
+    -webkit-filter: blur(7.5px);
+    filter: blur(7.5px);
+}
+
+.form-back-blur{
+    position: absolute;
+    height: 300px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("http://4everstatic.com/obrazky/priroda/mraz,-modre-pozadie-257455.jpg");
+    background-size: cover;
+    align-self: center;
+    border-radius: 25px;
+    box-shadow: 15px 20px 50px black;
+    border: none;
+    opacity: .6;
+}
+
+input{
+    color: aliceblue;
+    opacity: 1;
+}
+
+input[type="submit"]{
+    margin-top: 30px;
+    background: none;
+    color: aliceblue;
+    top: 40px;
+    margin: 0;
+}
+
+
+form{
+    margin: 3%;
+    height: 100%;
+    align-content: center;
+}
+
+
+
+
+
+label{
+  text-shadow: 3px 3px 3px black;
+}
+
+label[for="username"]:hover,
+label[for="firstname"]:hover,
+label[for="lastname"]:hover,
+label[for="email"]:hover,
+label[for="birthdate"]:hover,
+label[for="password"]:hover{
+  border-color: aliceblue;
+  color: DeepSkyBlue;
+  opacity: 1;
+}
+
+.from-control, label{
+    color: aliceblue;
+}
+
+
+
+@media(min-height: 374px){
+    .row_2{
+      height: 35%;
+    }
+    .row_1{
+        height: 15%;
+    }
+
+    .row_3{
+        height:50%;
+    }
+}
+
+
+
+
+label{
+  width: 100%;
+  color: aliceblue;
+}
+
+a{color: aliceblue;}
+a:hover{ color: DeepSkyBlue;}
+
+#btn-left, #btn-right{
+  border:none;
+}
+
+#btn-left{
+  -webkit-transition: border-top-right-radius .3s, border-bottom-right-radius .3s;
+  transition: border-top-right-radius .3s, border-bottom-right-radius .3s
+
+}
+
+#btn-right{
+  -webkit-transition: border-bottom-left-radius .3s, border-top-left-radius .3s;
+  transition: border-bottom-left-radius .3s, border-top-left-radius .3s;
+}
+
+#btn-mid{
+  border-top: solid aliceblue;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  top: 40px;
+  margin: 0;
+
+}
+
+.btn-row:hover #btn-mid{
+  border-top: solid DeepSkyBlue;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  -webkit-transition: top .3s, width .3s;
+  transition: top .3s, width .3s;
+  top: 20px;
+  border-color: DeepSkyBlue;
+}
+
+input[type="text"],
+select[class="form-control"]
+{
+    border: none;
+    border-bottom: solid aliceblue;
+    border-radius: 10px;
+    background: none;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+select[class="form-control"]:focus,
+textarea[class="form-control"]:focus,
+input[type="text"]:hover,
+input[type="password"]:hover,
+input[type="email"]:hover,
+input[type="date"]:hover,
+select[class="form-control"]:hover,
+textarea[class="form-control"]:hover
+{
+    border: none;
+    border-bottom: solid DeepSkyBlue;
+    color: aliceblue;
+    opacity: 1;
+}
+
+textarea[class="form-control"]:hover{
+    border: 2px solid DeepSkyBlue;
+}
+
+
+
+input[type="text"]::placeholder,
+input[type="email"]::placeholder,
+input[type="date"]::placeholder,
+input[type="password"]::placeholder,
+textarea[class="form-control"]::placeholder,
+select[name="bCategory"]
+
+{
+  color: aliceblue;
+  opacity: .75;
+}
+
+input[type="email"],
+input[type="date"],
+input[type="text"],
+select[name="bCategory"],
+select[name="bCategory"]:focus,
+textarea[class="form-control"],
+input[type="password"]
+{
+  background: none;
+  border: none;
+  border-bottom: solid aliceblue;
+  color: aliceblue;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="password"]{
+  border-bottom: 1px solid aliceblue;
+  -webkit-transition: border-bottom-right-radius .3s, border-bottom-left-radius .3s;
+  transition: border-bottom-right-radius .3s, border-bottom-left-radius .3s;
+}
+
+
+.btn-row:hover #btn-mid>input[type="submit"]{
+    color: DeepSkyBlue;
+}
+
+@media (min-width: 768px) {
+
+    .btn-row:hover #btn-left{
+        border-bottom: solid DeepSkyBlue;
+        border-bottom-right-radius: 25px;
+        border-color: DeepSkyBlue;
+        top: 40px;
+      margin: 0;
+    }
+    .btn-row:hover #btn-right{
+        border-bottom: solid DeepSkyBlue;
+        border-bottom-left-radius: 25px;
+        border-color: DeepSkyBlue;
+        top: 40px;
+      margin: 0;
+    }
+}
+
+#image_dropzone
+{
+    background: rgb(0, 0, 0, .5);
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+
+.form-back-blur{
+  height: 194.5%;
+}
+
+.body-background{
+    background-image: url("../images/Night-Winter.jpg");
+}
+
+.form-back-blur{
+    background-image: url("http://4everstatic.com/obrazky/priroda/mraz,-modre-pozadie-257455.jpg");
+    opacity: .6;
+    background-position: center;
+}
+
+textarea[class="form-control"]{
+  border: none;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+textarea[class="form-control"],
+textarea[class="form-control"]:focus,
+select[class="form-control"]:focus
+
+{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+}
+
+#bContent{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+input[name="image"]{
+    align-self: center;
+}
