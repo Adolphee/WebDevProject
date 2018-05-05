@@ -13,11 +13,11 @@ All images came straight from Google Images.
 
 Project URL:  http://dtsl.ehb.be/~adolphe.m/WDA/Blog
 
-Admin Credentials:
-Username = Admin
+Admin Credentials:<br/>
+Username = Admin<br/>
 Password  = test
 
-Another user:
+Another user:<br/>
 Username = Adolphe<br/>
 Password = test
 
