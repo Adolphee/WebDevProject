@@ -1,4 +1,4 @@
-# WebDevProject
+# WebDevProject 2
 
 The assignment was to choose between an online store or a blogging website.
 I know how everybody always chooses the online store for a project so I chose differently 
