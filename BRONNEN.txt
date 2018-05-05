@@ -1,0 +1,7 @@
+
+BRONNEN: 
+
+Ik heb zelden code genomen van derden, namelijk een drietal keren in totaal.
+Ik heb dit telkens vermeld in commentaar nét boven het desbetreffende stukje code.
+behalve de sidebar: https://bootstrapious.com/p/bootstrap-sidebar
+Vervolgens wil ik de mannen van stackoverflow bedanken om mij te wijzen op kleine maar hardnekkige syntaxfoutjes & logische foutjes..
