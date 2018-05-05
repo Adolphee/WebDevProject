@@ -9,6 +9,8 @@ The rules:
 2. No CSS/HTML templates were allowed
 3. The Project was to be done by no more than 1 student entirely from scratch
 4. Bootstrap was allowed but only its .CSS files
+5. Focus on PHP development: HTML/CSS & Javascript is what we learned last year, 
+   this project was mainly to test our PHP mastery.
 
 NOTE:
 
