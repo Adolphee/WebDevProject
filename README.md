@@ -1,5 +1,11 @@
 # WebDevProject
 
+NOTE:
+The website has no registration page, nor does it have a password recovery feature.
+The project was simply intended for us prove we had mastered raw PHP to a certain degree.
+I applied the MVC and Singleton design pattern as much as I could throughout the project.
+
+Credits:
 This project's code was written by me, Adolphe Munyankumburwa, in April 2018 
 as instructed by the Erasmus University College (Brussels).
 All code was written by me according to what I had learned by then.
