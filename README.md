@@ -1,5 +1,4 @@
 # Web Development Advanced: Project 1
-A project that focusses on PHP development, no frameworks allowed.
 
 The assignment was to choose between an online store or a blogging website.
 I know how everybody always chooses the online store for a project so I chose differently 
@@ -9,7 +8,7 @@ The rules:
 1. No frameworks were allowed
 2. No CSS/HTML templates were allowed
 3. The Project was to be done by no more than 1 student entirely from scratch
-4. Bootstrap was allowed but only its .CSS files
+4. Bootstrap was allowed
 5. Focus on PHP development: HTML/CSS & Javascript is what we learned last year, 
    this project was mainly to test our PHP mastery.
 
