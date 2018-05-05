@@ -11,6 +11,7 @@ The rules:
 4. Bootstrap was allowed but only its .CSS files
 
 NOTE:
+
 This was my first PHP web project.
 The website has no registration page, nor does it have a password recovery feature.
 The project was simply intended for us prove we had mastered raw PHP to a certain degree.
@@ -19,6 +20,7 @@ the meaning of PHP errors and learning how to debug PHP as fast as I can today.
 I applied the MVC and Singleton design patterns as much as I could throughout the project.
 
 Credits:
+
 This project's code was written by me, Adolphe Munyankumburwa, in April 2018 
 as instructed by the Erasmus University College (Brussels).
 All code was written by me according to what I had learned by then.
