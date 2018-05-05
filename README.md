@@ -13,7 +13,9 @@ The rules:
 NOTE:
 
 This was my first PHP web project.
-The website has no registration page, nor does it have a password recovery feature.
+The website has no registration page 
+(I had prepared a form with back-end validation but I had no time to implement it completely), 
+nor does it have a password recovery feature.
 The project was simply intended for us prove we had mastered raw PHP to a certain degree.
 I worked on this project for about 40-60 hours, counting the hours I spent understanding 
 the meaning of PHP errors and learning how to debug PHP as fast as I can today.
