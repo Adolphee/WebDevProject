@@ -18,7 +18,7 @@ Username = Admin
 Password  = test
 
 Another user:
-Username = Adolphe
+Username = Adolphe<br/>
 Password = test
 
 DISCLAIMER:
