@@ -8,6 +8,7 @@ The rules:
 1. No frameworks were allowed
 2. No CSS/HTML templates were allowed
 3. The Project was to be done by no more than 1 student entirely from scratch
+4. Bootstrap was allowed but only its .CSS files
 
 NOTE:
 This was my first PHP web project.
