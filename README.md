@@ -1,6 +1,5 @@
 # WebDevProject
 
-
 This project's code was written by me, Adolphe Munyankumburwa, in April 2018 
 as instructed by the Erasmus University College (Brussels).
 All code was written by me according to what I had learned by then.
@@ -11,3 +10,17 @@ Other external sources are mentioned in the BRONNEN.txt file.
 
 I am not the owner of any images I have used during this project.
 All images came straight from Google Images.
+
+Project URL:  http://dtsl.ehb.be/~adolphe.m/WDA/Blog
+
+Admin Credentials:
+Username = Admin
+Password  = test
+
+Another user:
+Username = Adolphe
+Password = test
+
+DISCLAIMER:
+I cannot guarantee that this link is still working at the time it is entered in a browser. 
+I do not know how long my school keeps these files on their servers before they are archived.
