@@ -1,9 +1,21 @@
 # WebDevProject
 
+The assignment was to choose between an online store or a blogging website.
+I know how everybody always chooses the online store for a project to I chose differently 
+and ended up being the only one who did this. 
+
+The rules:
+1. No frameworks were allowed
+2. No CSS/HTML templates were allowed
+3. The Project was to be done by no more than 1 student entirely from scratch
+
 NOTE:
+This was my first PHP web project.
 The website has no registration page, nor does it have a password recovery feature.
 The project was simply intended for us prove we had mastered raw PHP to a certain degree.
-I applied the MVC and Singleton design pattern as much as I could throughout the project.
+I worked on this project for about 40-60 hours, counting the hours I spent understanding 
+the meaning of PHP errors and learning how to debug PHP as fast as I can today.
+I applied the MVC and Singleton design patterns as much as I could throughout the project.
 
 Credits:
 This project's code was written by me, Adolphe Munyankumburwa, in April 2018 
