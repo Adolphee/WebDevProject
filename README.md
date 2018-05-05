@@ -11,8 +11,6 @@ Other external sources are mentioned in the BRONNEN.txt file.
 I am not the owner of any images I have used during this project.
 All images came straight from Google Images.
 
-Project URL:  http://dtsl.ehb.be/~adolphe.m/WDA/Blog
-
 Admin Credentials:<br/>
 Username = Admin<br/>
 Password  = test
@@ -20,6 +18,8 @@ Password  = test
 Another user:<br/>
 Username = Adolphe<br/>
 Password = test
+
+Project URL:  http://dtsl.ehb.be/~adolphe.m/WDA/Blog
 
 DISCLAIMER:
 I cannot guarantee that this link is still working at the time it is entered in a browser. 
